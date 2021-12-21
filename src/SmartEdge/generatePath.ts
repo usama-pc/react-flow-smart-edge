@@ -19,7 +19,7 @@ export const generatePath = (
 ) => {
   const finder = new AStarFinder({
     diagonalMovement: DiagonalMovement.Always,
-    allowDiagonal: true,
+    allowDiagonal: false,
     dontCrossCorners: true,
   });
 
