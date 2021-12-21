@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tisoap/react-flow-smart-edge.git"
+    "url": "https://github.com/usama-pc/react-flow-smart-edge"
   },
   "license": "MIT",
-  "author": "Tiso Alvarez Puccinelli",
+  "author": "Usamath P.C.",
   "main": "dist/index.js",
   "module": "dist/react-flow-smart-edge.esm.js",
   "typings": "dist/index.d.ts",
